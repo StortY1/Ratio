@@ -14,6 +14,7 @@ body {
     color: #4B5D68;
     font-size: 1.8rem;
     font-weight: 500;
+/*TODO: не используйте дробные пиксели, пиксель - это точка, всё это по-разному интерпретируется браузерами*/
     line-height: 28.8px;
     font-style: normal;
 }
